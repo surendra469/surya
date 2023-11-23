@@ -1,0 +1,9 @@
+{
+	"name": "suryafactory1",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8aebbd79-f7db-419a-852d-a0ad569b304e",
+		"tenantId": "16518c47-9438-4fed-9eed-26aad0c011fe"
+	}
+}
